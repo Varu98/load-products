@@ -1,0 +1,8 @@
+@import url("https://bee-ui.netlify.app/styles/main.css");
+
+.App {
+  font-family: sans-serif;
+  text-align: center;
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
+}
